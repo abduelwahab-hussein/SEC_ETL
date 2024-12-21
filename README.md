@@ -1,7 +1,7 @@
 # SEC_ETL
 
 ## Functionality:
-Python code that provides a comprehensive and efficient way o extract, process, and organize data from publicly available SEC filings into clean datasets. We use SEC N-PORT filings as an example.
+Python code that provides a comprehensive and efficient way to **extract, process, and organize data from publicly available SEC filings into clean datasets** . We use SEC N-PORT filings as an example.
 
 ## Use Cases:
 Geared towards finance professionals, researchers, academics, or anyone looking to analyze aggregate or specific SEC data on financial institutions.
